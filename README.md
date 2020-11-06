@@ -1,4 +1,4 @@
-# Session 7 Assignment
+# Session 3 Assignment
 
 ### def fibonacci(n:'int'):
 Generates Fibonacci number given for a range passed in as a parameter.
